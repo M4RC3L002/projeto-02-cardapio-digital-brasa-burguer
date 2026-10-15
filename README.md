@@ -1,4 +1,4 @@
-# Brasa Burger — cardápio digital
+# Projeto 02 - Cardápio Digital - Brasa Burguer
 
 Primeira versão de uma hamburgueria fictícia. Projeto independente do portfólio de Marcelo Andrade.
 
@@ -41,4 +41,4 @@ Watermelon UI foi consultado. As sugestões de menus de sistema/announcements n�
 Três imagens geradas para esta demonstração (hambúrguer, batatas e limonada), não fotografias de produtos reais. Uma mesma imagem representa mais de uma variação e não deve ser usada como fotografia comercial de um produto real.
 
 ## Publicação
-Preparado para Vercel: preset Next.js, instalação npm ci, build npm run build, raiz desta pasta. Esta entrega não comprova deploy. NEXT_PUBLIC_* são públicos: nunca coloque tokens nesses campos.
+Preparado para Vercel: preset Next.js, instalação npm ci, build npm run build, raiz desta pasta. Publicado para testes em https://projeto-02-cardapio-digital-brasa-b.vercel.app/. Repositório público: https://github.com/M4RC3L002/projeto-02-cardapio-digital-brasa-burguer. A Vercel está conectada ao repositório para publicação automática. NEXT_PUBLIC_* são públicos: nunca coloque tokens nesses campos.

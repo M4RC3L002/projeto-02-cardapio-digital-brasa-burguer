@@ -7,5 +7,10 @@
 - Busca "limao" encontrou a limonada; remoção de item esvaziou a sacola.
 - Emulação de 390 px: sem rolagem horizontal e imagens carregadas; painéis e ações acessíveis.
 
-Limites: não houve teste em aparelho físico ou envio real de WhatsApp, pois não há número de uma loja. Não há servidor de pedidos, pagamento online nem publicação na Vercel nesta entrega.
+Limites: não houve teste em aparelho físico ou envio real de WhatsApp, pois não há número de uma loja. Não há servidor de pedidos, pagamento online nesta entrega.
 
+
+## Publicação em 15/10/2026
+- Vercel: deploy de produção aprovado e página aberta com o título solicitado.
+- GitHub: repositório público com código, imagens ilustrativas e documentação; conexão com a Vercel confirmada.
+- Teste em aparelho físico e envio real de WhatsApp continuam pendentes.
